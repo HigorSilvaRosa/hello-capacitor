@@ -10,6 +10,17 @@
 </ion-header>
 
 <ion-content>
+
+  <div class="ion-padding">
+    <h2>Take somes photos!</h2>
+    <h3>Just tab the camera icon...</h3>
+    <hr />
+    <div *ngIf="photoUrl">
+      <h4>This is your picture: </h4>
+      <img [src]="photoUrl" style="width: 90%; height: auto; display: block; margin: auto;">
+    </div>
+  </div>
+
   <ion-fab vertical="bottom" horizontal="end" slot="fixed">
     <ion-fab-button (click)="askToTakePicture()">
       <ion-icon name="camera"></ion-icon>

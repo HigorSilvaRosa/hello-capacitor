@@ -12,6 +12,8 @@ CameraSource.Camera
 })
 export class CameraPage implements OnInit {
 
+  photoUrl: string;
+
   constructor(
     private actionSheetController: ActionSheetController,
     private alertController: AlertController,
@@ -54,7 +56,7 @@ export class CameraPage implements OnInit {
       resultType: CameraResultType.DataUrl,
       source: source
     }).then(image => {
-      this.domSanitizer.bypassSecurityTrustResourceUrl(image && (image.dataUrl));
+      this.photoUrl = image.dataUrl;
     }).catch(error => {
       this.alertController.create({
         header: 'Error!',
