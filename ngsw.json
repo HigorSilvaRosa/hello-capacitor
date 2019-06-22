@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561183904427,
+  "timestamp": 1561185723235,
   "index": "https://higorsilvarosa.github.io/hello-capacitor/index.html",
   "assetGroups": [
     {
@@ -60,7 +60,7 @@
         "https://higorsilvarosa.github.io/hello-capacitor/147.3dff6b3e1fbbf6c681d3.js",
         "https://higorsilvarosa.github.io/hello-capacitor/148.84b1c0f3e23453ccaad5.js",
         "https://higorsilvarosa.github.io/hello-capacitor/149.c4413ff7941e377e54a5.js",
-        "https://higorsilvarosa.github.io/hello-capacitor/15.767b55c53d97f6612828.js",
+        "https://higorsilvarosa.github.io/hello-capacitor/15.81712007dce868ec0693.js",
         "https://higorsilvarosa.github.io/hello-capacitor/150.1bf249ea9f21568ac924.js",
         "https://higorsilvarosa.github.io/hello-capacitor/151.9cf811e7f1221f9b9300.js",
         "https://higorsilvarosa.github.io/hello-capacitor/152.5bc3efa04b4cfbe0010f.js",
@@ -71,7 +71,7 @@
         "https://higorsilvarosa.github.io/hello-capacitor/157.7dc85ec097e8cfc426ec.js",
         "https://higorsilvarosa.github.io/hello-capacitor/158.79521550bc56dd99c746.js",
         "https://higorsilvarosa.github.io/hello-capacitor/159.8efaf3e2f30a3a4fa238.js",
-        "https://higorsilvarosa.github.io/hello-capacitor/16.dc0dd51f1bbbdef2c800.js",
+        "https://higorsilvarosa.github.io/hello-capacitor/16.616dbf85c9f118759fca.js",
         "https://higorsilvarosa.github.io/hello-capacitor/160.814ef37794b89697badc.js",
         "https://higorsilvarosa.github.io/hello-capacitor/161.eed53cf062ec15719347.js",
         "https://higorsilvarosa.github.io/hello-capacitor/162.1831a6b30d64ff916ff3.js",
@@ -199,9 +199,9 @@
         "https://higorsilvarosa.github.io/hello-capacitor/common.79062cc14914d1a7e24e.js",
         "https://higorsilvarosa.github.io/hello-capacitor/es2015-polyfills.504a17b42164056589df.js",
         "https://higorsilvarosa.github.io/hello-capacitor/index.html",
-        "https://higorsilvarosa.github.io/hello-capacitor/main.55b14b23940dd4b651f7.js",
+        "https://higorsilvarosa.github.io/hello-capacitor/main.ad4d77c98779fb9c7cfe.js",
         "https://higorsilvarosa.github.io/hello-capacitor/polyfills.9ccc9e25ed7d36fbe127.js",
-        "https://higorsilvarosa.github.io/hello-capacitor/runtime.ed37691aeb590ef4c77b.js",
+        "https://higorsilvarosa.github.io/hello-capacitor/runtime.426c8aa6a53de454027a.js",
         "https://higorsilvarosa.github.io/hello-capacitor/styles.d94f8a20aca90f6d2915.css"
       ],
       "patterns": []
@@ -220,6 +220,7 @@
         "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-512x512.png",
         "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-72x72.png",
         "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-96x96.png",
+        "https://higorsilvarosa.github.io/hello-capacitor/assets/img/camera-initial-image.jpg",
         "https://higorsilvarosa.github.io/hello-capacitor/assets/shapes.svg"
       ],
       "patterns": []
@@ -279,7 +280,7 @@
     "https://higorsilvarosa.github.io/hello-capacitor/147.3dff6b3e1fbbf6c681d3.js": "de68b532cd1df5307dd729d8d86413b1938046fc",
     "https://higorsilvarosa.github.io/hello-capacitor/148.84b1c0f3e23453ccaad5.js": "96f07866872d38cd8205bc38c86e43f39d219fa9",
     "https://higorsilvarosa.github.io/hello-capacitor/149.c4413ff7941e377e54a5.js": "4e7e54519eb0023c5bac29c5eb9ec2c3a6c5198d",
-    "https://higorsilvarosa.github.io/hello-capacitor/15.767b55c53d97f6612828.js": "031740220f5fe46b71dce2cdb6084ebe646ac44c",
+    "https://higorsilvarosa.github.io/hello-capacitor/15.81712007dce868ec0693.js": "2917adc0dfef51a758b59914bac6fd1e6dc437f0",
     "https://higorsilvarosa.github.io/hello-capacitor/150.1bf249ea9f21568ac924.js": "ddac98ed699ef7bb6daabbef2ddf94f57bb55e0b",
     "https://higorsilvarosa.github.io/hello-capacitor/151.9cf811e7f1221f9b9300.js": "c936024b7d44db960358f70416bff50afff695ff",
     "https://higorsilvarosa.github.io/hello-capacitor/152.5bc3efa04b4cfbe0010f.js": "88abe26860d73b765a39ec0d885f96d52aa20d87",
@@ -290,7 +291,7 @@
     "https://higorsilvarosa.github.io/hello-capacitor/157.7dc85ec097e8cfc426ec.js": "d08e7d6a78fd9f7e0f717f34d36e079124366567",
     "https://higorsilvarosa.github.io/hello-capacitor/158.79521550bc56dd99c746.js": "2ec106c8c2a70c38495ceb8a38473a63b86f6c01",
     "https://higorsilvarosa.github.io/hello-capacitor/159.8efaf3e2f30a3a4fa238.js": "9f73cc8ee356d2ab071ec2d70879c39c29da20ca",
-    "https://higorsilvarosa.github.io/hello-capacitor/16.dc0dd51f1bbbdef2c800.js": "f6703bc885570f3fe2c15f63f0efcab289f0f385",
+    "https://higorsilvarosa.github.io/hello-capacitor/16.616dbf85c9f118759fca.js": "9652b5eddbd2f9d81708be33e61864f6e649dda4",
     "https://higorsilvarosa.github.io/hello-capacitor/160.814ef37794b89697badc.js": "d59930231593a2daeaa175a1eac60a71b8d3cfc0",
     "https://higorsilvarosa.github.io/hello-capacitor/161.eed53cf062ec15719347.js": "1630ad6840e94fb16d257f2a92fd940697c31f8b",
     "https://higorsilvarosa.github.io/hello-capacitor/162.1831a6b30d64ff916ff3.js": "915fc954b2d5fbab261d4b6bb39928404bc026b6",
@@ -424,13 +425,14 @@
     "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://higorsilvarosa.github.io/hello-capacitor/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://higorsilvarosa.github.io/hello-capacitor/assets/img/camera-initial-image.jpg": "5c8374e8a2b7ac608dbde55b4ad99857e2987d8e",
     "https://higorsilvarosa.github.io/hello-capacitor/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://higorsilvarosa.github.io/hello-capacitor/common.79062cc14914d1a7e24e.js": "b202e4a10802fd1c43531ae38fa5eb1c39622956",
     "https://higorsilvarosa.github.io/hello-capacitor/es2015-polyfills.504a17b42164056589df.js": "7570d00147578b3761d7f98d057bead1ef857c57",
-    "https://higorsilvarosa.github.io/hello-capacitor/index.html": "0a02ca324f4f1d4f7abb33ca351a916904454e7c",
-    "https://higorsilvarosa.github.io/hello-capacitor/main.55b14b23940dd4b651f7.js": "721cffa94a95cc7935916aaf610c127cf8b79de5",
+    "https://higorsilvarosa.github.io/hello-capacitor/index.html": "4ef7a2977c704c2f42c93e988d2c3dacedeb9a36",
+    "https://higorsilvarosa.github.io/hello-capacitor/main.ad4d77c98779fb9c7cfe.js": "fa355bbac9e9bb760b59feabfcdeb0a31a3160d5",
     "https://higorsilvarosa.github.io/hello-capacitor/polyfills.9ccc9e25ed7d36fbe127.js": "1719b733a191643a900b0df274abd7593fed160c",
-    "https://higorsilvarosa.github.io/hello-capacitor/runtime.ed37691aeb590ef4c77b.js": "c62c476de98f19bc5c245d905e9fb247b1555a5e",
+    "https://higorsilvarosa.github.io/hello-capacitor/runtime.426c8aa6a53de454027a.js": "f6ed2247d7140939402410ae61bf3f8b0438497e",
     "https://higorsilvarosa.github.io/hello-capacitor/styles.d94f8a20aca90f6d2915.css": "042c60dc5a1bc91f241ac8a0c1439a38d042f5a8"
   },
   "navigationUrls": [
