@@ -1,0 +1,7 @@
+{
+  "appId": "br.com.higorsilvarosa.hellocapacitor",
+  "appName": "Hello Capacitor!",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
